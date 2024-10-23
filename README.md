@@ -1,1 +1,2 @@
 Oi eu sou o Tiago e estudo no IFPR, eu faço parte de um time de vôlei, também gosto muito de jogos retro e faço aniversário dia 30 de outubro.
+![Estes são alguns jogos que eu gosto]([url da img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.ign.com%2Fthe-legend-of-zelda-a-link-to-the-past-1&psig=AOvVaw0_bOfbjxFTcSSkfLqF0McU&ust=1729785001517000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDolsvtpIkDFQAAAAAdAAAAABAE))
