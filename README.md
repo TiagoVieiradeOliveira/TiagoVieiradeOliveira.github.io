@@ -11,7 +11,8 @@ Esta será minha página para jogos bons que eu gostaria de zerar:
 ![Alguns jogos que eu gosto](https://i.ytimg.com/vi/IJqCzUBUPzw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBI-sOUtS0U36Z5GRnJu9gy0_L0MQ)
 - [ ] 5.Chrono Triggers
 ![Alguns jogos que eu gosto](https://s.zst.com.br/cms-assets/2021/06/personagens-de-chrono-trigger-1-.png)
-Aqui será Uma tabela onde eu irei classificar os jogos
-| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |
+Aqui será Uma tabela onde eu irei classificar os jogos.
 
-
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Exemplo | Exemplo | Exemplo
